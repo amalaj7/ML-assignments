@@ -1,1 +1,1 @@
-Assignment of Ineuron ML DL course.
+Assignment of Ineuron Machine Learning course.
